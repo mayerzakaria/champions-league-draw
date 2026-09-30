@@ -292,6 +292,6 @@ The draw algorithm remains entirely on the backend.
 Computer Science Student
 Backend Development — Java & Spring Boot
 
-GitHub: [Add your GitHub profile here]
+GitHub: https://github.com/mayerzakaria
 
-LinkedIn: [Add your LinkedIn profile here]
+LinkedIn: www.linkedin.com/in/mayermg
